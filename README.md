@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I am <b> Mahesh G </b>, a computer science and engineering undergrad from Coimbatore.</p>
+
+I have a deep interest in Python and is keen in exploring data science kernels.
+
+### [![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=Mahe-git2hub&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahe-git2hub&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+📫 How to reach me: gg.mahesh951@gmail.com. ( I might be slow to reply, but for sure i will 😊)
